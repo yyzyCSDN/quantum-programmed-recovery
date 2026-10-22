@@ -1,0 +1,8 @@
+services:
+  main:
+    build:
+      context: ${CONTEXT_DIR}
+    command: ["sh", "-c", "sleep infinity"]
+    pids_limit: 256
+    security_opt:
+      - no-new-privileges:true
