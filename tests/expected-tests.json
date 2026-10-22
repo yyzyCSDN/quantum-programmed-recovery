@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "suite_sha256": "d9f26658910242a7f4e0126f9310cd3b3ba57f2e39ec975e47a7c2083f4a7b4b",
+  "nodeids": [
+    "test_outputs.py::test_quiet_ready[quiet_ready]",
+    "test_outputs.py::test_initial_recovery_front[initial_recovery_front]",
+    "test_outputs.py::test_pending_readout[pending_readout]",
+    "test_outputs.py::test_one_photon[one_photon]",
+    "test_outputs.py::test_unobserved_emission[unobserved_emission]",
+    "test_outputs.py::test_blocked_electronics[blocked_electronics]",
+    "test_outputs.py::test_fixed_renewal[fixed_renewal]",
+    "test_outputs.py::test_first_readout_stopped[first_readout_stopped]",
+    "test_outputs.py::test_stretched_recovery[stretched_recovery]",
+    "test_outputs.py::test_compressed_recovery[compressed_recovery]",
+    "test_outputs.py::test_projective_branch_memory[projective_branch_memory]",
+    "test_outputs.py::test_weak_branch_feedback[weak_branch_feedback]",
+    "test_outputs.py::test_later_entries_return_first[later_entries_return_first]",
+    "test_outputs.py::test_overlapping_mark_windows[overlapping_mark_windows]",
+    "test_outputs.py::test_dead_quantum_transport[dead_quantum_transport]",
+    "test_outputs.py::test_dead_emission_tally[dead_emission_tally]",
+    "test_outputs.py::test_initial_and_new_cohorts[initial_and_new_cohorts]",
+    "test_outputs.py::test_rare_first_readout[rare_first_readout]",
+    "test_outputs.py::test_maximum_domain[maximum_domain]",
+    "test_outputs.py::test_combined_instruments[random_instrument_00]",
+    "test_outputs.py::test_combined_instruments[random_instrument_01]",
+    "test_outputs.py::test_combined_instruments[random_instrument_02]",
+    "test_outputs.py::test_combined_instruments[random_instrument_03]",
+    "test_outputs.py::test_combined_instruments[random_instrument_04]"
+  ]
+}

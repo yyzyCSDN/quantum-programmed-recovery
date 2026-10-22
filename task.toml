@@ -2,7 +2,7 @@ schema_version = "1.3"
 
 [task]
 name = "local/quantum-programmed-recovery"
-version = "0.3.0"
+version = "0.3.1"
 description = "Repair fluorescence reports with outcome-dependent quantum feedback and programmed recovery."
 keywords = ["quantum-optics", "open-quantum-systems", "photon-counting", "quantum-instruments", "numerical-physics"]
 
@@ -25,11 +25,10 @@ user = "root"
 environment_mode = "separate"
 
 [metadata]
-difficulty = "hard"
+difficulty = "medium"
 category = "physics"
 tags = ["quantum-optics", "counting-statistics", "numpy", "scipy"]
-expert_time_estimate = "7h"
-difficulty_status = "candidate; blind validation pending"
+difficulty_status = "ordinary difficulty; not certified as hard"
 
 [[artifacts]]
 source = "/app"
